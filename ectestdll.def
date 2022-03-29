@@ -1,0 +1,6 @@
+LIBRARY ECTESTDLL
+
+EXPORTS
+    ECTest1Argument
+    ECTest2Arguments
+    ECTest3Arguments
